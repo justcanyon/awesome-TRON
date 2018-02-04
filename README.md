@@ -45,6 +45,6 @@ Pull requests are welcome!
 - [Slack](https://tronfoundation.slack.com/)
 - [TRON on Telegram](https://t.me/joinchat/GIjGvkK7dhnO8gapCPfqew)
 - [Facebook group](https://www.facebook.com/groups/TRONIX.TRX)
-- [Dicord TRON](https://discord.gg/fmZQ9hp)
+- [Discord TRON](https://discord.gg/fmZQ9hp)
 
 
