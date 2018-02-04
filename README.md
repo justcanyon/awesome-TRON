@@ -11,7 +11,7 @@ Pull requests are welcome!
 - [Twitter](https://www.twitter.com/tronfoundation)
 - [Blog](https://tronprotocol.github.io/tron-blog/)
 - [Facebook](https://www.facebook.com/TronFoundation-144555002795817/)
-- [Slack](https://tronfoundation.slack.com/)
+- [TRON Labs](https://medium.com/@Tronfoundation)
 
 ## Docs, Books and videos
 
@@ -23,4 +23,28 @@ Pull requests are welcome!
 
 ## Gateways
 
-[Binance](https://www.binance.com)
+- [Binance](https://www.binance.com)
+- [Liqui](https://liqui.io/)
+- [HitBTC](https://hitbtc.com/)
+- [Bit-Z](https://www.bit-z.com/)
+- [Coinegg](https://www.coinegg.com)
+- [Huobi](https://www.huobi.pro/)
+- [OKEX](https://www.okex.com/)
+- [Bitfnix](https://www.bitfinex.com/)
+- [Gatecoin](https://gatecoin.com/)
+- [Ethfinex](https://www.bitfinex.com/ethfinex)
+- [Qryptos](https://www.qryptos.com/)
+- [Gate.io](https://gate.io/)
+- [Yobit](https://yobit.net)
+- [Cobinhood](https://cobinhood.com/home)
+- [Tidex](https://tidex.com/)
+
+## Social and Forums
+
+- [Reddit "Tronix"](https://www.reddit.com/r/Tronix)
+- [Slack](https://tronfoundation.slack.com/)
+- [TRON on Telegram](https://t.me/joinchat/GIjGvkK7dhnO8gapCPfqew)
+- [Facebook group](https://www.facebook.com/groups/TRONIX.TRX)
+- [Dicord TRON](https://discord.gg/fmZQ9hp)
+
+
